@@ -9,6 +9,8 @@
   "svg": "image/svg+xml",
   "tif": "image/tiff",
   "tiff": "image/tiff",
+  "heif": "image/heif",
+  "heic": "image/heic",
   
   "mp4": "video/mp4",
   "mkv": "video/x-matroska",
@@ -19,6 +21,7 @@
   "webm": "video/webm",
   "3gp": "video/3gpp",
   "m4v": "video/x-m4v",
+  "prores": "video/prores",
   
   "mp3": "audio/mpeg",
   "wav": "audio/wav",
@@ -28,6 +31,7 @@
   "flac": "audio/flac",
   "opus": "audio/opus",
   "wma": "audio/x-ms-wma",
+  "alac": "audio/x-apple-lossless",
   
   "pdf": "application/pdf",
   "doc": "application/msword",
